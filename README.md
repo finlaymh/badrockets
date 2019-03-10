@@ -1,2 +1,2 @@
 # RocketSim
-a bad rocket simulation
+a bad rocket simulation, written in c++
